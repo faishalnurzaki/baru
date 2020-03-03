@@ -2,7 +2,7 @@
 error_reporting(0);
 
 #AUTO BIKIN AKUN + AUTO CLAIM VOC GOJEK + AUTO TF GOPAY
-#Created By Xcalms recode by SoMeD
+#Created By Xcalms
 #####################################
 
 $secret = '83415d06-ec4e-11e6-a41b-6c40088ab51e';
@@ -22,17 +22,17 @@ $headers[] = "X-Location: -6.553311,106.813172";
 echo "\n";
 echo "\e[92mGOJEK AUTO REGISTER ACCOUNT + AUTO CLAIM VOUCHER + AUTO TF GOPAY Rp.1-3\n";
 echo "\n";
-echo "Script Recode by SoMeD\n";
+echo "Script Remastered By Arya Riandika\n";
 echo "\n";
 echo "\e[96mCredits:\n";
-echo "IG : faishalnz\n";
-echo "PW : mhed\n";
-echo "FB : Faishal Nurzaki\n";
+echo "IG : xcalmz\n";
+echo "PW : p\n";
+echo "FB : Arya Riandika\n";
 echo "\e[91m\n";
 
 echo "[$] MASUKIN PASSWORD-NYA! : ";
 $pass = trim(fgets(STDIN));
-if($pass == "mhed"){
+if($pass == "p"){
 		echo "[$] MASUKIN NOMORNYA! : ";
 		$number = trim(fgets(STDIN));
 		$numbers = $number[0].$number[1];
