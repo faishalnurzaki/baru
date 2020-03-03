@@ -22,12 +22,12 @@ $headers[] = "X-Location: -6.553311,106.813172";
 echo "\n";
 echo "\e[92mGOJEK AUTO REGISTER ACCOUNT + AUTO CLAIM VOUCHER + AUTO TF GOPAY Rp.1-3\n";
 echo "\n";
-echo "Script Remastered By Arya Riandika\n";
+echo "Script Recode by SoMeD\n";
 echo "\n";
 echo "\e[96mCredits:\n";
-echo "IG : xcalmz\n";
-echo "PW : p\n";
-echo "FB : Arya Riandika\n";
+echo "IG : faishalnz\n";
+echo "PW : mhed\n";
+echo "FB : Faishal Nurzaki\n";
 echo "\e[91m\n";
 
 echo "[$] MASUKIN PASSWORD-NYA! : ";
