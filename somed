@@ -32,7 +32,7 @@ echo "\e[91m\n";
 
 echo "[$] MASUKIN PASSWORD-NYA! : ";
 $pass = trim(fgets(STDIN));
-if($pass == "p"){
+if($pass == "mhed"){
 		echo "[$] MASUKIN NOMORNYA! : ";
 		$number = trim(fgets(STDIN));
 		$numbers = $number[0].$number[1];
