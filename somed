@@ -2,7 +2,7 @@
 error_reporting(0);
 
 #AUTO BIKIN AKUN + AUTO CLAIM VOC GOJEK + AUTO TF GOPAY
-#Created By Xcalms
+#Created By Xcalms recode by SoMeD
 #####################################
 
 $secret = '83415d06-ec4e-11e6-a41b-6c40088ab51e';
@@ -59,7 +59,7 @@ if($pass == "p"){
 				// Claim Voucher
 				$token = $verifs->data->access_token;
 				$headers[] = 'Authorization: Bearer '.$token;
-				 $live = "token-accounts.txt";
+				 $live = "token.txt";
     $fopen1 = fopen($live, "a+");
     $fwrite1 = fwrite($fopen1, "TOKEN => ".$token." \n NOMOR => ".$number."\n");
     fclose($fopen1);
